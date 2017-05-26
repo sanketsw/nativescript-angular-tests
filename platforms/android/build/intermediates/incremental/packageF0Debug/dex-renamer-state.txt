@@ -1,0 +1,4 @@
+#Fri May 26 11:51:18 AEST 2017
+base.0=/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

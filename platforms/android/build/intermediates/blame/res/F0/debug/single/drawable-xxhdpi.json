@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    }
+]

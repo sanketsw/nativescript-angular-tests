@@ -1,0 +1,143 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@cloudinary/angular",
+        "scope": "@cloudinary",
+        "escapedName": "@cloudinary%2fangular",
+        "name": "@cloudinary/angular",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/cornishj/Documents/NativeScriptProjects/Dusk"
+    ]
+  ],
+  "_from": "@cloudinary/angular@latest",
+  "_id": "@cloudinary/angular@2.1.1",
+  "_inCache": true,
+  "_location": "/@cloudinary/angular",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/angular-2.1.1.tgz_1484747706652_0.8102443479001522"
+  },
+  "_npmUser": {
+    "name": "cloudinary",
+    "email": "info@cloudinary.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@cloudinary/angular",
+    "scope": "@cloudinary",
+    "escapedName": "@cloudinary%2fangular",
+    "name": "@cloudinary/angular",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@cloudinary/angular/-/angular-2.1.1.tgz",
+  "_shasum": "07f4aa956d6deeda019511cdf40089853d7e7454",
+  "_shrinkwrap": null,
+  "_spec": "@cloudinary/angular",
+  "_where": "/Users/cornishj/Documents/NativeScriptProjects/Dusk",
+  "author": {
+    "name": "Cloudinary"
+  },
+  "bugs": {
+    "url": "https://github.com/cloudinary/cloudinary_angular/issues"
+  },
+  "dependencies": {
+    "@angular/common": "^2.4.3",
+    "@angular/compiler-cli": "^2.2.4",
+    "@angular/core": "^2.4.3",
+    "@angular/platform-server": "^2.4.3",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  },
+  "description": "The formal Cloudinary Angular SDK to enhance your applications with image and video components powered by Cloudinary",
+  "devDependencies": {
+    "@angular/compiler": "^2.4.3",
+    "@angular/platform-browser": "^2.4.3",
+    "@angular/platform-browser-dynamic": "^2.4.3",
+    "@types/jasmine": "^2.5.36",
+    "@types/node": "^6.0.46",
+    "@types/selenium-webdriver": "^2.53.36",
+    "canonical-path": "0.0.2",
+    "cloudinary": "^1.4.6",
+    "cloudinary-core": "^2.1.9",
+    "concurrently": "^3.1.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-cli": "^1.0.1",
+    "karma-htmlfile-reporter": "^0.3.4",
+    "karma-jasmine": "^1.0.2",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "protractor": "^4.0.12",
+    "systemjs": "^0.19.41",
+    "tslint": "^4.2.0",
+    "typescript": "^2.0.10",
+    "webdriver-manager": "^10.2.10"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "07f4aa956d6deeda019511cdf40089853d7e7454",
+    "tarball": "https://registry.npmjs.org/@cloudinary/angular/-/angular-2.1.1.tgz"
+  },
+  "gitHead": "dfdc2a87e8d89ae4d4fb0f8b083e46065cce6ddf",
+  "homepage": "https://github.com/cloudinary/cloudinary_angular",
+  "keywords": [
+    "cloudinary",
+    "angular",
+    "angular2",
+    "angularjs",
+    "ng",
+    "ng2",
+    "image",
+    "images",
+    "video",
+    "sdk",
+    "performance"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "cloudinary",
+      "email": "info@cloudinary.com"
+    }
+  ],
+  "name": "@cloudinary/angular",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloudinary/cloudinary_angular.git"
+  },
+  "scripts": {
+    "e2e": "npm run install-sample-from-source && concurrently \"npm run start-sample\" \"protractor protractor.config.js --baseUrl='http://localhost:4000/'\" --kill-others --success first",
+    "e2e:jquery": "npm run start-sample:jquery && protractor protractor.config.js --baseUrl='http://localhost:3000/' --kill-others --success first",
+    "install-sample-from-source": "node ./scripts/install-sample-from-source.js samples/photo_album",
+    "install-sample-from-source:jquery": "node ./scripts/install-sample-from-source.js samples/photo_album_with_jquery",
+    "lint": "tslint **/*.ts -t verbose --exclude=**/*.d.ts",
+    "ngc": "ngc",
+    "ngc:w": "ngc -w",
+    "pree2e": "npm run webdriver:update",
+    "start-sample": "cd samples/photo_album && npm run start:e2e",
+    "start-sample:jquery": "npm run install-sample-from-source:jquery && cd samples/photo_album_with_jquery && npm run start:e2e",
+    "test": "tsc && concurrently \"tsc -w\" \"karma start karma.conf.js\"",
+    "test-once": "tsc && karma start karma.conf.js --single-run --no-auto-watch --browsers PhantomJS",
+    "webdriver:update": "webdriver-manager update"
+  },
+  "types": "index.ts",
+  "version": "2.1.1"
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_5b974fab70df56d5067631b1c62526db2997b43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_5b78b39e7449082f7aee007e449b145136227e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_3368e0e43601c51f8943b900035400495f52389e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/25.2.3/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_c75a1ec5bdb7b3b02c42b82b2144a1078fca90f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_f118aed7d6f41e6d6185496d9805301f1196eeae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_3d5e4e0cb3b3d796ec365588cdd45dc3d5d73e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_bce0791b2d4f8c0735163e74ec31edb4cd84f20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_e8c0f7694a37eed602754f11b4248a15eb2d9605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_cfc527b51a0eeb7876d19a831607147f2bb86d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_3003f150acda10faebea313358ee0214d42784c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_c234411f516e4986987f2019eafcc35614130b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_71e02d733207693db61b07112c5a83d287a81228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/Dusk/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_56151e4daa90bf4205d208350d99edcf0c39dd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/Dusk/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/Dusk-runtime-unspecified_036b0ae9067acdc4123fd9777bdfb975fbfb6410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_167ea180c51dbe9e8a1c7005b6b420806e27fa48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/cornishj/Documents/NativeScriptProjects/Dusk/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_2db9d48b0ee2c52ff6eaaa943026bc16d48abb41.jar" />
+    </item>
+
+</items>
