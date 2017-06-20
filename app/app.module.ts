@@ -4,8 +4,12 @@ import { AppRoutingModule } from "./app.routing";
 import { AppComponent } from "./app.component";
 
 import { ItemService } from "./item/item.service";
+import { TestPage2Service } from "./testPage2/shared/testPage2.service";
 import { ItemsComponent } from "./item/items.component";
 import { ItemDetailComponent } from "./item/item-detail.component";
+import { TestPageComponent } from "./testPage/testPage.component";
+import { TestPage2Component } from "./testPage2/testPage2.component";
+
 
 @NgModule({
     bootstrap: [
@@ -18,10 +22,13 @@ import { ItemDetailComponent } from "./item/item-detail.component";
     declarations: [
         AppComponent,
         ItemsComponent,
-        ItemDetailComponent
+        ItemDetailComponent,
+        TestPageComponent,
+        TestPage2Component
     ],
     providers: [
-        ItemService
+        ItemService,
+        TestPage2Service
     ],
     schemas: [
         NO_ERRORS_SCHEMA
